@@ -1,0 +1,13 @@
+public class lesson4
+{
+    public static void main( String[] args );
+    {
+        System.out.println( "Alex can't carry." );
+        System.out.println( "He's so bad at everything." );
+        System.out.println( "This guy thinks he's good." );
+        System.out.println( "But he can't." );
+        System.out.println( "If he could, he wouldn't spend all his time on his phone." );
+        System.out.println( "Anyways... How's it going?" );
+        System.out.println( "Oh wait, you're a \"computer\". That's sad..." ):
+    }
+}
